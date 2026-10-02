@@ -1,4 +1,8 @@
 {
+  "config": {
+    "news_url": "https://dsebd.org/latest_news.php",
+    "news_selector": "div.table-responsive table tr"
+  },
   "licenses": [
     {
       "gmail": "4f145b40aa1c8c67582eea842151afbd48bf5de11aa162581cc6ea1fd156ff11",
